@@ -12,6 +12,8 @@ build/
 develop-eggs/
 dist/
 downloads/
+Data/*
+!Data/readme.md
 eggs/
 .eggs/
 lib/
